@@ -1,2 +1,2 @@
-nombre "Pedro"
+nombre = "Pedro"
 print("hola "+ nombre + " como estas? ✌")
